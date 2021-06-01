@@ -1,0 +1,11 @@
+dt,dd{
+  display: inline-block;
+}
+dt{
+  font-weight: bold;
+  text-align: center;
+  width: 100px;
+}
+dd{
+  margin-inline-start: 0;
+}
